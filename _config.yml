@@ -1,11 +1,11 @@
 # Configs
 
-title: "Jekyll Profile"
+title: "Shoaib Profile"
 name: "A Free Job Market Profile in Jekyll"
 email: 
-url: "https://econ-691.github.io"
-baseurl: "/Jekyll-for-Job-Market"
-repository: "ECON-691/Jekyll-for-Job-Market"
+url: "https://shoaib.github.io"
+baseurl: "/Shoaib-for-Job-Market"
+repository: "mohammadniu/personalsite"
 header:
   image: /assets/images/banner-husky.jpg
 
